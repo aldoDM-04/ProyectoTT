@@ -134,3 +134,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Ignorar archivos de configuración del sistema operativo MAC
+.DS_Store
+
+# Ignorar archivos de configuración del IDE (Android Studio, IntelliJ, etc.)
+.idea/
